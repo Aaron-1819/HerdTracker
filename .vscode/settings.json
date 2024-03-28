@@ -1,0 +1,5 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "appService.defaultWebAppToDeploy": "/subscriptions/f5963287-acc6-4411-a32d-b875705db337/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/HerdTracker",
+    "appService.deploySubpath": "."
+}
